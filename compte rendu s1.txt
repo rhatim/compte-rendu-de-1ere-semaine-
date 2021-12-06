@@ -1,0 +1,57 @@
+
+ 
+ Au début en à commencé par le travail en groupe et les compètances.
+  on a vu les competences qui sont composees de trois niveaux et qu'on doit valide les trois niveaux (N1:immiter/ N2:adapter/ N3:transposer) pour valide une competence
+  Puis on à commencé par la découverte de la plateforme simplon sur laquelle les briefs seront organisés.
+  et on à vu la culture web:
+   * Internet.
+   * Les paquets.
+   * Comprendre les différences entre une page web, un serveur web, un navigateur web et un moteur de recherche.
+   * un client, serveur, adresse IP et DNS.
+   * Le fonctionement de web.
+   * les parties de l'internet.
+   * L'internet vs web.
+ Par la suite on à commencé les veilles 
+
+   1-HTML et CSS:
+
+    *HTML: Langage de balisage utilisé pour la création de pages web, permettant notamment de définir des liens hypertextes.
+    *CSS : Le CSS pour Cascading Style Sheets, est un langage informatique utilisé sur Internet pour la mise en forme de fichiers et de pages HTML.
+           On le traduit en français par feuilles de style en cascade.
+
+   2-DOM HTML et CSSOM:
+      Le DOM HTML est un modèle objet pour HTML . Il définit :
+
+       * Éléments HTML en tant qu'objets
+       * Propriétés de tous les éléments HTML
+       * Méthodes pour tous les éléments HTML
+       * Événements pour tous les éléments HTML
+
+      CSSOM : Le CSS Object Model est un ensemble d'API permettant la manipulation de CSS à partir de JavaScript.
+              C'est un peu comme le DOM, mais pour le CSS plutôt que pour le HTML. 
+              Il permet aux utilisateurs de lire et de modifier le style CSS de manière dynamique.
+   3-XHTML et HTML :
+     
+     XHTML: XHTML est une version plus stricte et plus basée sur XML du HTML.
+      HTML: Langage de balisage utilisé pour la création de pages web, permettant 
+            notamment de définir des liens hypertextes.
+
+   4-STRUCTURAL ELEMENTS:
+       * De nombreux sites Web contiennent du code HTML tel que : <div id="nav"> <div class="header"> <div id="footer"> pour indiquer
+          la navigation, l'en-tête et le pied de page.
+
+   5-CSS PAGE LAYOUTS:
+      * un site web est souvent divisé en en_tetes,menus contenu et pied de page.
+   
+   6-CSS SELECTORS:
+     * Un sélecteur CSS peut contenir plusieurs sélecteurs simples.
+        Entre les sélecteurs simples, nous pouvons inclure un combinateur.
+
+   7-HTML / CSS VALIDATION
+     * La validation du balisage est une étape importante pour garantir la qualitè technique des pages web.
+
+  LES BRIEFS:
+      1.Template boutique de jeux en ligne.
+      2.Page d'accueil du magasin de vidéo.
+
+     
